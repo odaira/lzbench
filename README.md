@@ -89,7 +89,7 @@ gipfeli 2016-07-13
 glza 0.8
 libdeflate v0.7
 lizard v1.0 (formerly lz5)
-lz4/lz4hc v1.7.5
+lz4/lz4hc v1.8.1
 lzf 3.6
 lzfse/lzvn 2017-03-08
 lzg 1.0.8
